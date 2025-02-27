@@ -18,6 +18,12 @@ A **real-time chat application** built with **React, Firebase, and Material-UI**
 📺 **Watch the demo video here:**  
 
 
+
+https://github.com/user-attachments/assets/c8e04b6d-6383-4669-9628-c67dc5bd7eac
+
+
+
+
 ## 🏗️ Tech Stack  
 
 - **Frontend:** React, Material-UI  
